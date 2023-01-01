@@ -214,7 +214,7 @@ header nav .form i {
 
 /* Landing */
 .landing {
-  background-image: url(/images/landing.jpg);
+  background-image: url(../images/landing.jpg);
   background-size: cover;
   height: 100vh;
   width: 100%;
@@ -543,7 +543,7 @@ header nav .form i {
 .status {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(/images/stats.png);
+  background-image: url(../images/stats.png);
   background-size: cover;
   position: relative;
 }
